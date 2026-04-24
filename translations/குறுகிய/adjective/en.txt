@@ -1,0 +1,4 @@
+short
+narrow
+brief
+limited

@@ -1,0 +1,5 @@
+put
+wear
+throw
+place
+lay
